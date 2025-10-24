@@ -1,8 +1,4 @@
-<p align="center">
-  <video style="width:100%; max-width:1280px; height:auto;" autoplay loop muted playsinline>
-    <source src="https://github.com/ChillaKalyan/ChillaKalyan/raw/main/githubGif.mp4" type="video/mp4">
-  </video>
-</p>
+[![Watch the video](https://github.com/ChillaKalyan/ChillaKalyan/raw/main/assets/thumbnail.png)](https://github.com/ChillaKalyan/ChillaKalyan/raw/main/githubGif.mp4)
 
 <h1 align="center">Hi 👋, I'm Chilla Kalyan</h1>
 <p align="center">
