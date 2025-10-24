@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/githubbanner.png" width="100%" alt="GitHub Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Chilla Kalyan</h1>
 <p align="center">
   <a href="LICENSE">
