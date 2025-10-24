@@ -1,3 +1,15 @@
+<p align="center">
+  <video style="width:100%; max-width:1280px; height:auto;" autoplay loop muted playsinline>
+    <source src="https://github.com/ChillaKalyan/ChillaKalyan/raw/main/githubGif.mp4" type="video/mp4">
+  </video>
+</p>
+
+<h1 align="center">Hi 👋, I'm Chilla Kalyan</h1>
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Chilla Kalyan</h1>
 <h3 align="center">A passionate Machine Learning and Data Engineer from India, dedicated to building intelligent systems and scalable data solutions.</h3>
