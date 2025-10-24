@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chilla Kalyan</h1>
 <h3 align="center">A passionate Machine Learning and Data Engineer from India, dedicated to building intelligent systems and scalable data solutions.</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*xElCFdjugP93SSrD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillakalyan&label=Profile%20views&color=0e75b6&style=flat" alt="chillakalyan" /> </p>
 
