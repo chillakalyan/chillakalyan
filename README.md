@@ -1,4 +1,6 @@
-[![Watch the video](https://github.com/ChillaKalyan/ChillaKalyan/raw/main/assets/thumbnail.png)](https://github.com/ChillaKalyan/ChillaKalyan/raw/main/githubGif.mp4)
+<p align="center">
+  <img src="assets/githubGif.gif" width="1280" height="640" alt="Intro animation">
+</p>
 
 <h1 align="center">Hi 👋, I'm Chilla Kalyan</h1>
 <p align="center">
