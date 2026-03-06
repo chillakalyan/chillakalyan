@@ -50,4 +50,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chillakalyan&show_icons=true&locale=en" alt="chillakalyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chillakalyan&" alt="chillakalyan" /></p>
-![Uploading image.png…]()
+
