@@ -1,16 +1,30 @@
-<h1 align="center">Hi 👋, I'm Chilla Kalyan</h1>
-<h3 align="center">IEEE Researcher | Computer Architecture | RISC-V Systems | Low-Level Debugging | Open Source Contributor</h3>
+<h1 align="center">Hi 👋, I'm Chilla Kalyan Sai Kumar Reddy</h1>
+<h3 align="center">IEEE Researcher | Computer Architecture | RISC-V Systems | TL-Verilog | Verilog | Low-Level Debugging | Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillakalyan&label=Profile%20views&color=0e75b6&style=flat" alt="chillakalyan" /> </p>
 
-- 🔭 I’m currently working on [RISC-V Boot Analysis Toolkit](https://github.com/chillakalyan/riscv-boot-analysis)
+- 🔭 I’m currently working on **RISC-V Boot Analysis Toolkit**  
+  https://github.com/chillakalyan/riscv-boot-analysis  
 
-- 🌱 I’m currently learning **RISC-V privilege architecture, QEMU internals, and system-level debugging**
+- 🧠 My work focuses on **Computer Architecture, RISC-V systems, and low-level system debugging**, particularly analyzing the early boot process of operating systems running on simulated hardware platforms.
 
-- 👯 I’m looking to collaborate on **ISC-V systems, QEMU debugging tools, and computer architecture research projects**
+- ⚙️ I actively experiment with **TL-Verilog and Makerchip** to explore modern hardware design methodologies such as timing-abstract and pipeline-based design.
 
-- 🤝 I’m looking for help with [Architectural checkpointing techniques and RTL simulation workflows (OpenPiton)](https://github.com/PrincetonUniversity/openpiton)
+- 💻 I work with **Verilog and TL-Verilog** to build and understand hardware components including pipelines, ALUs, and system-level designs, while exploring their integration with **RISC-V processor architectures**.
 
+- 🌱 I’m currently learning **RISC-V privilege architecture, QEMU internals, system-level debugging, and hardware/software co-design**.
+
+- 🧪 I enjoy building experimental projects on **Makerchip.com** to prototype hardware pipelines and explore TL-Verilog concepts.
+
+- 👯 I’m looking to collaborate on **RISC-V systems, TL-Verilog experimentation, QEMU debugging tools, and open-source computer architecture research projects**.
+
+- 🤝 I’m looking for help with **architectural checkpointing techniques and RTL simulation workflows in the OpenPiton ecosystem**  
+  https://github.com/PrincetonUniversity/openpiton
+
+- 📄 **IEEE Research Publication:** Verilog-based digital hardware design and implementation.  
+  🔗 https://ieeexplore.ieee.org/document/11416567
+
+- 🚀 My long-term goal is to contribute to **open-source processor architectures, hardware design tools, and research in computer architecture.**
 - 👨‍💻 All of my projects are available at [https://github.com/chillakalyan](https://github.com/chillakalyan)
 
 - 📝 I regularly write articles on [https://medium.com/@chillakalyan78](https://medium.com/@chillakalyan78)
