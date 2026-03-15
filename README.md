@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chilla Kalyan Sai Kumar Reddy</h1>
-<h3 align="center">IEEE Researcher | Computer Architecture | RISC-V Systems | TL-Verilog | Verilog | Low-Level Debugging | Open Source Contributor</h3>
+<h3 align="center">IEEE Researcher | Computer Architecture | RISC-V Systems | TL-Verilog | Verilog | Low-Level Debugging | AI and ML Engineer | Data Analyst | Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillakalyan&label=Profile%20views&color=0e75b6&style=flat" alt="chillakalyan" /> </p>
-
-- 🔭 I’m currently working on **RISC-V Boot Analysis Toolkit**  
-  https://github.com/chillakalyan/riscv-boot-analysis  
 
 - 🧠 My work focuses on **Computer Architecture, RISC-V systems, and low-level system debugging**, particularly analyzing the early boot process of operating systems running on simulated hardware platforms.
 
@@ -12,11 +9,10 @@
 
 - 💻 I work with **Verilog and TL-Verilog** to build and understand hardware components including pipelines, ALUs, and system-level designs, while exploring their integration with **RISC-V processor architectures**.
 
-- 🌱 I’m currently learning **RISC-V privilege architecture, QEMU internals, system-level debugging, and hardware/software co-design**.
+- 🤖 I have also completed **5+ projects in Artificial Intelligence and Machine Learning**, working with **Python, data analysis, model training, and applied ML techniques** to solve practical problems.
 
-- 🧪 I enjoy building experimental projects on **Makerchip.com** to prototype hardware pipelines and explore TL-Verilog concepts.
+- 🌱 I’m currently learning **RISC-V privilege architecture, QEMU internals, system-level debugging, hardware/software co-design, and advanced computer architecture concepts**.
 
-- 👯 I’m looking to collaborate on **RISC-V systems, TL-Verilog experimentation, QEMU debugging tools, and open-source computer architecture research projects**.
 
 - 🤝 I’m looking for help with **architectural checkpointing techniques and RTL simulation workflows in the OpenPiton ecosystem**  
   https://github.com/PrincetonUniversity/openpiton
