@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chilla Kalyan Sai Kumar Reddy</h1>
-<h3 align="center">IEEE Researcher | Computer Architecture | RISC-V Systems | TL-Verilog | Verilog | Low-Level Debugging | AI and ML Engineer | Data Analyst | Open Source Contributor</h3>
+<h3 align="center">IEEE Researcher | Computer Architecture | RISC-V Systems | TL-Verilog | Verilog | Low-Level Debugging | AI & ML | Data Analysis | Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillakalyan&label=Profile%20views&color=0e75b6&style=flat" alt="chillakalyan" /> </p>
 
-- 🧠 My work focuses on **Computer Architecture, RISC-V systems, and low-level system debugging**, particularly analyzing the early boot process of operating systems running on simulated hardware platforms.
+- 🧠 My work focuses on **Computer Architecture, TL-Verilog designs, RISC-V systems, and low-level system debugging**, particularly analyzing the early boot process of operating systems running on simulated hardware platforms.
 
 - ⚙️ I actively experiment with **TL-Verilog and Makerchip** to explore modern hardware design methodologies such as timing-abstract and pipeline-based design.
 
